@@ -24,7 +24,7 @@
 - [ ] **Update** Attributions file with ***ALL*** borrowed reference images & tutorials
   > Blessed be the open community of artists and programmers
 
-- [ ] Feed **Hubristic progression**
+- [x] Feed **Hubristic progression**
   > Add newly taken images
 
 - [ ] Finish retopology of nameless character mesh
